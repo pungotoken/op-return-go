@@ -1,0 +1,17 @@
+
+
+[prune]
+  go-tests = true
+  unused-packages = true
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/btcsuite/btcd"
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/btcsuite/btcwallet"
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/btcsuite/btcutil"
