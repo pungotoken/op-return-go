@@ -1,3 +1,5 @@
+![Pungo Token](https://pungotoken.sale/images/token_logo.png)
+
 # OP_RETURN transactions tool
 
 This script can be used to create transaction that include data using OP_RETURN NullData script.
